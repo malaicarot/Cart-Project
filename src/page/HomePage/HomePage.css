@@ -1,0 +1,8 @@
+.productList{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    justify-content: end;
+    align-items: center;
+
+}
